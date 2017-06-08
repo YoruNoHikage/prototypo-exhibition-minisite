@@ -101,7 +101,7 @@ class App extends Component {
       return (
         <div className="Card">
           <p className="Card-title">Merci !</p>
-          <p className="Card-subtitle">Profitez bien des Puces Typo !</p>
+          <p className="Card-subtitle">Profitez bien des Yellow Vibes !</p>
           <p>Rafraichissement dans {this.state.counter} secondes</p>
           <div
             style={{
